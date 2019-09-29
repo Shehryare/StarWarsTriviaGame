@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family: 'Poller One', cursive;
+    text-emphasis-color: Yellow;
+}
+
+h1{
+    color: gold
+}
+
+.optionbtn {
+    color: gold;
+background-color: black;
+}
+
+#start{
+color: gold;
+background-color: black;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+
+  
